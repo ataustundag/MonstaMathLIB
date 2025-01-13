@@ -33,3 +33,23 @@ The reason it is on console is that I want anyone with any operating system to b
     <li>Hexagon</li>
   </ul>
 </ul>
+
+<h2>Example Usage</h2>
+```
+using MonstaMathLIB;
+
+namespace MathLIBTester
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            monstaLib mathlib = new monstaLib();
+            string result = mathlib.add(10,20);
+            Console.WriteLine(result);
+            result = mathlib.circleArea(4);
+            Console.WriteLine(result);
+        }
+    }
+}
+```
