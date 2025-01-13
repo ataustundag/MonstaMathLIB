@@ -1,7 +1,9 @@
 <h1> MonstaMathLIB</h1>
 <hr>
 <p>This is an early version math library written in C# programming language.
-I am hoping to help students in middle school and high school with their math homework and their exam prep questions.</p>
+I am hoping to help students in middle school and high school with their math homework and their exam prep questions.
+This project will be supported and will be taken to high level to also help college students with their studies.
+The reason it is on console is that I want anyone with any operating system to be able to run this software and use it for their studies.</p>
 
 Current Version: 1.1
 
