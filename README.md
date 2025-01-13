@@ -33,7 +33,20 @@ The reason it is on console is that I want anyone with any operating system to b
     <li>Hexagon</li>
   </ul>
 </ul>
-
+<hr>
+<h2>Import Library</h2>
+<p>After creating the project</p>
+<ul>
+  <li>Right Click on "Dependencies" in Solution.</li>
+  <li>Click on "Add COM Reference".</li>
+  <li>On the bottom of the panel click on "Browse" button.</li>
+  <li>Navigate to the ".dll" file path.</li>
+  <li>Choose the ".dll" file.</li>
+  <li>On the left side menu click on "Browse".</li>
+  <li>If the check box is not selected click on the checkbox and be sure it is selected.</li>
+  <li>Press "OK" button on the bottom of the panel.</li>
+</ul>
+<hr>
 <h2>Example Usage</h2>
 
 ```
