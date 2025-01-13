@@ -35,6 +35,7 @@ The reason it is on console is that I want anyone with any operating system to b
 </ul>
 
 <h2>Example Usage</h2>
+
 ```
 using MonstaMathLIB;
 
