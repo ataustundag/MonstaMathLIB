@@ -1,2 +1,35 @@
-# MonstaMathLIB
-This is an early version math library written in C# programming language.
+<h1> MonstaMathLIB</h1>
+<hr>
+<p>This is an early version math library written in C# programming language.
+I am hoping to help students in middle school and high school with their math homework and their exam prep questions.</p>
+
+Current Version: 1.1
+
+<hr>
+<h2>Features</h2>
+<hr>
+<ul>
+  <li>Basic Calculations</li>
+  <ul>
+    <li>Addition</li>
+    <li>Subtraction</li>
+    <li>Multiplying</li>
+    <li>Dividing</li>
+  </ul>
+  <li>Area Calculations</li>
+  <ul>
+    <li>Square</li>
+    <li>Rectangle</li>
+    <li>Triangle</li>
+    <li>Circle</li>
+  </ul>
+  <li>Perimeter Calculations</li>
+  <ul>
+    <li>Triangle</li>
+    <li>Rectangle</li>
+    <li>Parallelogram</li>
+    <li>Square</li>
+    <li>Rhombus</li>
+    <li>Hexagon</li>
+  </ul>
+</ul>
